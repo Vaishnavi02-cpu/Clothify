@@ -10,8 +10,6 @@ Admin can add, edit and remove new categories and products and  edit ads and ban
 
 - [React](https://reactjs.org/) - Javascript Library For UI
 
-- [Chakra UI](https://chakra-ui.com/) - UI Component Library
-
 - [Javascript](https://www.javascript.com/) - Main Language
 
 - [NodeJS](https://nodejs.org/en/) - Server Environment
@@ -22,36 +20,15 @@ Admin can add, edit and remove new categories and products and  edit ads and ban
 
 - [Mongoose](https://mongoosejs.com/) - Database ORM
 
-- [Formik](https://formik.org/) - React Form Library
-
-- [Yup](https://www.npmjs.com/package/yup) - For Validations
-
-- [React Cookie](https://www.npmjs.com/package/react-cookie) - For Cookies
-
 - [Bcryptjs](https://www.npmjs.com/package/bcryptjs) - For Encryption
 
 - [MUI Icons](https://mui.com/material-ui/material-icons/) - Icons
 
-- [Cloudinary](https://cloudinary.com/) - Cloud Image Storage
-
-- [Stripe](https://stripe.com/) - Payment System
-
 ## Getting Started
 
 Clone the repository
-
-```
-git clone https://github.com/AhmedSemih/MERN-Stack-eCommerce-App.git
-```
-
+git clone https://github.com/Vaishnavi02-cpu/Clothify.git
 After getting the starter files, you must to go both file directories and run
-
-```
 npm install
-```
-
 You must assign environment variables for both and start the dev server
-
-```
 npm start
-```
